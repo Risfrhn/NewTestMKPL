@@ -29,7 +29,7 @@
         <repository>
           <id>github</id>
           <name>GitHub Packages</name>
-          <url>https://maven.pkg.github.com/Risfrhn/TestMKPL</url>
+          <url>https://maven.pkg.github.com/Risfrhn/NewTestMKPL</url>
         </repository>
     </distributionManagement>
     <properties>
